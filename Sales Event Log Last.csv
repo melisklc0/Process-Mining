@@ -1,0 +1,283 @@
+﻿Case ;Start time ;End time ;Activity ;Resource 
+1;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+1;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+1;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+1;17.11.2023 11:05;17.11.2023 12:00;Order Cancellation;Sales Department 
+1;17.11.2023 12:05;17.11.2023 13:00;Informing the Customer;Customer Service Department 
+2;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+2;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+2;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+2;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+2;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+2;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+2;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Finance Department 
+2;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+2;17.11.2023 14:05;17.11.2023 15:00;Product Preparation;Production Department 
+2;17.11.2023 15:05;17.11.2023 16:00;Delivery Planning;Logistics Department 
+2;17.11.2023 16:05;17.11.2023 17:00;Delivery;Logistics Department 
+2;17.11.2023 17:05;17.11.2023 18:00;Confirmation of the Successful Delivery;Customer Service Department 
+2;17.11.2023 18:05;17.11.2023 19:00;Informing the Customer;Customer Service Department 
+3;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+3;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+3;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+3;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+3;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+3;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+3;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+3;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+3;17.11.2023 14:05;17.11.2023 15:00;Product Preparation;Production Department 
+3;17.11.2023 15:05;17.11.2023 16:00;Delivery Planning;Logistics Department 
+3;17.11.2023 16:05;17.11.2023 17:00;Delivery;Logistics Department 
+3;17.11.2023 17:05;17.11.2023 18:00;Confirmation of the Successful Delivery;Customer Service Department 
+3;17.11.2023 18:05;17.11.2023 19:00;Informing the Customer;Customer Service Department 
+4;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+4;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+4;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+4;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+4;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+4;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+4;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+4;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+4;17.11.2023 14:05;17.11.2023 15:00;Delivery Planning;Logistics Department 
+4;17.11.2023 15:05;17.11.2023 16:00;Product Preparation;Production Department 
+4;17.11.2023 16:05;17.11.2023 17:00;Delivery;Logistics Department 
+4;17.11.2023 17:05;17.11.2023 18:00;Confirmation of the Successful Delivery;Customer Service Department 
+4;17.11.2023 18:05;17.11.2023 19:00;Informing the Customer;Customer Service Department 
+5;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+5;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+5;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+5;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+5;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+5;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+5;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+5;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+5;17.11.2023 14:05;17.11.2023 15:00;Delivery Planning;Logistics Department 
+5;17.11.2023 15:05;17.11.2023 16:00;Product Preparation;Production Department 
+5;17.11.2023 16:05;17.11.2023 17:00;Delivery;Logistics Department 
+5;17.11.2023 17:05;17.11.2023 18:00;Confirmation of the Successful Delivery;Customer Service Department 
+5;17.11.2023 18:05;17.11.2023 19:00;Informing the Customer;Customer Service Department 
+6;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+6;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+6;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+6;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+6;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+6;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+6;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+6;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+6;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Customer Service Department 
+6;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department 
+6;17.11.2023 16:05;17.11.2023 17:00;Product Preparation;Production Department 
+6;17.11.2023 17:05;17.11.2023 18:00;Delivery Planning;Logistics Department 
+6;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+6;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+6;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+7;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+7;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+7;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+7;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+7;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+7;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+7;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+7;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+7;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+7;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+7;17.11.2023 16:05;17.11.2023 17:00;Product Preparation;Production Department 
+7;17.11.2023 17:05;17.11.2023 18:00;Delivery Planning;Logistics Department 
+7;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+7;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+7;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+8;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+8;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+8;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+8;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+8;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+8;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+8;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+8;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+8;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+8;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+8;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+8;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+8;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+8;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+8;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+9;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+9;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+9;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+9;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+9;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+9;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+9;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+9;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+9;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+9;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+9;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+9;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+9;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+9;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+9;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+10;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+10;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+10;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+10;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+10;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+10;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+10;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+10;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+10;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+10;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+10;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+10;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+10;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+10;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+10;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+11;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+11;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+11;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+11;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+11;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+11;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+11;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+11;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+11;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+11;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+11;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+11;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+11;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+11;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+11;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+12;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+12;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+12;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+12;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+12;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+12;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+12;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+12;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+12;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+12;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+12;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+12;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+12;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+12;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+12;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+13;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+13;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+13;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+13;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+13;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+13;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+13;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+13;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+13;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+13;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+13;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+13;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+13;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+13;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+13;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+14;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+14;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+14;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+14;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+14;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+14;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+14;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+14;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+14;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+14;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+14;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+14;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+14;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+14;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+14;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+15;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+15;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+15;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+15;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+15;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+15;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+15;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+15;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+15;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+15;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+15;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+15;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+15;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+15;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+15;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+16;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+16;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+16;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+16;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+16;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+16;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+16;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+16;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+16;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+16;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+16;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+16;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+16;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+16;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+16;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+17;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+17;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+17;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+17;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+17;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+17;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+17;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+17;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+17;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+17;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+17;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+17;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+17;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+17;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+17;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+18;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+18;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+18;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+18;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+18;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+18;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+18;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+18;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+18;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+18;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+18;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+18;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+18;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+18;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+18;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+19;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+19;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+19;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+19;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+19;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+19;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+19;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+19;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+19;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+19;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+19;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+19;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+19;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+19;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+19;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
+20;17.11.2023 08:05;17.11.2023 09:00;Receiving Customer Request;Customer Service Department 
+20;17.11.2023 09:05;17.11.2023 10:00;Order Creation;Sales Department 
+20;17.11.2023 10:05;17.11.2023 11:00;Order Confirmation;Sales Department 
+20;17.11.2023 11:05;17.11.2023 12:00;Invoice Generation;Accounting Department 
+20;17.11.2023 12:05;17.11.2023 13:00;Sending the Invoice to the Customer;Accounting Department 
+20;17.11.2023 11:05;17.11.2023 12:00;Payment Collection;Finance Department 
+20;17.11.2023 12:05;17.11.2023 13:00;Payment Confirmation;Financial Department 
+20;17.11.2023 13:05;17.11.2023 14:00;Stock Control;Logistics Department 
+20;17.11.2023 14:05;17.11.2023 15:00;Informing the Warehouse;Logistics Department 
+20;17.11.2023 15:05;17.11.2023 16:00;Refilling the Product Stocks;Customer Service Department
+20;17.11.2023 16:05;17.11.2023 17:00;Delivery Planning;Logistics Department 
+20;17.11.2023 17:05;17.11.2023 18:00;Product Preparation;Production Department 
+20;17.11.2023 18:05;17.11.2023 19:00;Delivery;Logistics Department 
+20;17.11.2023 19:05;17.11.2023 20:00;Confirmation of the Successful Delivery;Customer Service Department 
+20;17.11.2023 20:05;17.11.2023 21:00;Informing the Customer;Customer Service Department 
